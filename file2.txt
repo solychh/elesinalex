@@ -1,3 +1,6 @@
 file2_lineII
 line1_replacement
 new
+file2_lineI
+file2_lineII
+
